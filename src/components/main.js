@@ -12,7 +12,7 @@ class Main extends Component {
     }
      handleClick(params) {
        if (this.state.user) {
-        this.setState({ link: "omer" })
+        this.setState({ link: "san" })
        } else {
         this.setState({ link: "" })
        }
